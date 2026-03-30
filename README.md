@@ -2,7 +2,7 @@
 
 **Desenvolvedor Front-End | Fortaleza, CE ☀️**
 
-Sou um desenvolvedor apaixonado por construir interfaces incríveis e focadas na experiência do usuário. Atualmente, estou trilhando o caminho para me tornar um Desenvolvedor Sênior, mergulhando fundo em conceitos avançados de arquitetura e engenharia de software. 
+Sou um profissional com mais de 5 anos de experiência, apaixonado por construir interfaces incríveis e focadas na experiência do usuário. Atualmente, estou trilhando o caminho para me tornar um Desenvolvedor Sênior, mergulhando fundo em conceitos avançados de arquitetura e engenharia de software. 
 
 ---
 
