@@ -55,8 +55,6 @@ Aqui estão os trabalhos dos quais mais me orgulho. Fique à vontade para explor
 
 ### 📊 GitHub Stats
 
-*(Lembrete: Substitua `SEU-USUARIO` pelo seu username real do GitHub)*
-
 <div align="center">
   <img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=hugofrot4&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hugofrot4&layout=compact&langs_count=7&theme=radical"/>
