@@ -32,27 +32,6 @@ Aqui estão as principais tecnologias da minha stack:
 
 ---
 
-### 🏆 Projetos em Destaque
-
-Aqui estão os trabalhos dos quais mais me orgulho. Fique à vontade para explorar os repositórios e testar as aplicações ao vivo:
-
-#### 1. [Ekklesia Software]
-> **Breve descrição:** Sistema construído do zero com foco em arquitetura escalável e engenharia de software robusta.
-- **Tecnologias:** `React`, `Node.js`, `TailwindCSS` *(atualize conforme necessário)*
-- 🔗 [Ver Repositório](link-para-o-repo) | 🌐 [Ver Aplicação Online](link-para-o-site)
-
-#### 2. [Nome do Projeto 2]
-> **Breve descrição:** (O que esse projeto resolve e qual foi o seu maior desafio nele?)
-- **Tecnologias:** `Next.js`, `TailwindCSS`
-- 🔗 [Ver Repositório](link-para-o-repo) | 🌐 [Ver Aplicação Online](link-para-o-site)
-
-#### 3. [Nome do Projeto 3]
-> **Breve descrição:** (Ex: Aplicativo mobile multiplataforma focado em usabilidade).
-- **Tecnologias:** `React Native`, `JavaScript`
-- 🔗 [Ver Repositório](link-para-o-repo) | 🌐 [Ver Aplicação Online](link-para-o-site)
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
